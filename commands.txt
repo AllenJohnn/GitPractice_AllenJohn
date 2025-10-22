@@ -1,0 +1,10 @@
+1. git init - Initialize a new Git repository
+2. git clone - Clone an existing repository
+3. git add - Stage changes for commit
+4. git commit - Save staged changes
+5. git status - Check the working tree
+6. git log - View commit history
+7. git push - Upload changes to remote
+8. git pull - Fetch and merge from remote
+9. git branch - Manage branches
+10. git merge - Combine branches
